@@ -1,0 +1,8 @@
+
+TEGNOLOGUIA DE LA API
+- django + DRF
+
+pasos que se realizaron 
+python3 -m venv env_upgi
+ pip install djangorestframework
+
